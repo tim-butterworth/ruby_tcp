@@ -1,0 +1,3 @@
+tcp_server:
+  port: 2222
+  host: localhost
